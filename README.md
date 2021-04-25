@@ -1,5 +1,8 @@
 # Les structures de données illustrées avec WPF et C#4
-Les structures de données illustrées avec WPF et C#4
+
+ISBN 9782810613878
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Les informaticiens, ou les simples usagers de l'outil informatique, utilisent des systèmes informatiques pour concevoir ou exécuter généralement des programmes d'application. Pour modéliser au mieux les informations à traiter, l'emploi des structures de données s'avère nécessaire. Les structures de données spécifient la façon de représenter les données d'un problème considéré. Cela est nécessaire en particulier pour un traitement par un algorithme à l'aide d'un ordinateur.
 
