@@ -2,7 +2,7 @@
 
 ISBN 9782810613878
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![livre](http://www.reypatrice.fr/livres/fiche_bod_02_structure_donnees_cpf_csharp4/bod_02_200x264.png)
 
 Les informaticiens, ou les simples usagers de l'outil informatique, utilisent des systèmes informatiques pour concevoir ou exécuter généralement des programmes d'application. Pour modéliser au mieux les informations à traiter, l'emploi des structures de données s'avère nécessaire. Les structures de données spécifient la façon de représenter les données d'un problème considéré. Cela est nécessaire en particulier pour un traitement par un algorithme à l'aide d'un ordinateur.
 
